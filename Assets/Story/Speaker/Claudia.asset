@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7a0ddf17689bcc428008d8110578d0b, type: 3}
+  m_Name: Claudia
+  m_EditorClassIdentifier: 
+  spekername: '[Claudia]'
+  textColor: {r: 0.8207547, g: 0.23616053, b: 0.23616053, a: 1}
+  sprites:
+  - {fileID: 294685277, guid: 2f09b1fe7c0a4db41880dad80d5bfac2, type: 3}
+  - {fileID: 1736961534, guid: 6441d51151d18d44d940946dc175a81a, type: 3}
+  - {fileID: -1102398169, guid: e76c175f21dfc3346b75ca8658172557, type: 3}
+  prefab: {fileID: 8309794425947438269, guid: 89d1bda84855c06428e1fc759ca370a4, type: 3}

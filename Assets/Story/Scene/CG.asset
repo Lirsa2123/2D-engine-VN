@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0164dea6cfb909248b4560951a3af5e1, type: 3}
+  m_Name: CG
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: ' '
+    speaker: {fileID: 11400000, guid: cd67a599cc2172e4888499a613c26497, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Welcome, human!!
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: why are you here human!?
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 2
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: are you the ghost of this mansion?
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ghost? (Ha!?, since when did the rumors become like that?)
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 4
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Yes!!!, That's right~! I am that ghost!!
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 4
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: scared of me human!  haha~!
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 5
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Oh that's right, I've gone back to work first
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ehh, wait wait man, because of your courage to talk to me then I give 1
+      per
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 4
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' '
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: haha?, requests, anything?
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: yep, whatever !!
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Do you want to be rich, or do you want power?
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: it's up to what you want man
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Is it a request, hmmmm okay okay then I ask you mysterious people to stop
+      bothering me at work
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Alright, I will accept your request~, ehh, what were you asking for earlier?
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 4
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: I ask you to stop bothering me because M E N G A N G U
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ehhhh, wait a minute can that wish be replaced
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 4
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ehh you can not, Kaya only makes me arrogant while being strong just feels
+      empty"
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions:
+    - speaker: {fileID: 0}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: and my parents once said never trust someone who likes to talk like that
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Can you not grant that request?, otherwise I will leave
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: wait man, wait a minute
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 4
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' '
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 7
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' ....'
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' eh!?'
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 6
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' '
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 7
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ano,, man can you open the lock in this chest?
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 8
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Isn't it possible for ghosts to penetrate the chest?
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ehh soo, eto,, oh yeah because of something i lost my power to penetrate
+      walls so now i can't pierce things
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 6
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: then just wait for your strength to recover, goodbye
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: tunggu kalau kau tutup ruangan ini maka ruang nya akan gelap, aku takut
+      kegelapan
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 4
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: A ghost afraid of the dark? Are you asking for a fight?
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: wait wait i'm actually not a human ghost so help me
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 4
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' Uaaaaa.....!!!!!'
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 8
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ....
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: uhhh ok i'm opening so wait a bit okay
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 010b8a8b64999ae46aeeec048a7cc53a, type: 2}
+      spriteIndex: 9
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: hiks...hiks...
+    speaker: {fileID: 11400000, guid: 70bdde8260a10d448908e016de4f329d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 52db5708e607fa341b551ddb05b59d85, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 2734587197abb584083cb7aba239f20d, type: 3}
+  nextScene: {fileID: 11400000, guid: 7df044581a3b48a4c8ed512b80d2135e, type: 2}

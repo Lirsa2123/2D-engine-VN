@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0164dea6cfb909248b4560951a3af5e1, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: '*walking*'
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' '
+    speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: hmmmm....
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: then I can't work!!
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: I've heard that this mansion is haunted
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: when I have to be disturbed on the first day of work
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: chii...~
+    speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' '
+    speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: I'll look for the ghost!
+    speaker: {fileID: 11400000, guid: 987826afb89bb554e81d0b832f3838b0, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: '!!..'
+    speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+      spriteIndex: 1
+      actionType: 2
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ' '
+    speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 082b99a915aa44544b330c90eecf2a2d, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 2639f7905ccd69c438d59e5721a23bba, type: 3}
+  nextScene: {fileID: 11400000, guid: 78c185e6938df294d8fe3350cc211533, type: 2}
